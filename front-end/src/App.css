@@ -1,0 +1,18 @@
+body {
+  color: #d2d3d4;
+  background-color: #1e1f20;
+}
+
+div#topbar {
+  background-color: #323334;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  padding: 20px;
+}
